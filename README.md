@@ -4,4 +4,4 @@ ___
 #### In order to run this script
 1)Download the script from https://github.com/MohanVashist1/itunes_webscrapper/<br/>
 2)Make sure you have Python installed<br/>
-3)open the script with python and enjoy!
+3)open the script with Python and enjoy!
